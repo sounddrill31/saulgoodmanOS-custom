@@ -1,5 +1,5 @@
 test
 
 ```
-sm updatesgos.sh && wget https://raw.githubusercontent.com/sounddrill31/saulgoodmanOS-custom/main/updatesgos.sh && bash update.sh
+rm updatesgos.sh && wget https://raw.githubusercontent.com/sounddrill31/saulgoodmanOS-custom/main/updatesgos.sh && bash update.sh
 ```
