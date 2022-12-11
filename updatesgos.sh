@@ -21,3 +21,4 @@ esac
 done
 
 echo doing stuff...
+neofetch
