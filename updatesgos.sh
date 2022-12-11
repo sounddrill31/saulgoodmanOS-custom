@@ -6,18 +6,18 @@ neofetch
 
 echo "Testing Over, Do you want to continue modifying your ubuntu unity into Saul Goodman OS?"
 
-read -p "Do you want to proceed? (yes/no) " yn
+while true; do
+
+read -p "Do you want to proceed? (y/n) " yn
 
 case $yn in 
-	yes ) echo ok, we will proceed;;
-	y ) echo ok, we will proceed;;
-	ok ) echo ok, we will proceed;;
-	Y ) echo ok, we will proceed;;
-	no ) echo exiting...;
+	[yY] ) echo ok, we will proceed;
+		break;;
+	[nN] ) echo exiting...;
 		exit;;
-	* ) echo invalid response;
-		exit 1;;
+	* ) echo invalid response;;
 esac
+
 done
 
-neofetch
+echo doing stuff...
