@@ -10,9 +10,6 @@ read -p "Do you want to proceed? (yes/no) " yn
 
 case $yn in 
 	yes ) echo ok, we will proceed;;
-	y ) echo ok, we will proceed;;
-	ok ) echo ok, we will proceed;;
-	Y ) echo ok, we will proceed;;
 	no ) echo exiting...;
 		exit;;
 	* ) echo invalid response;
