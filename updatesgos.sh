@@ -18,3 +18,6 @@ case $yn in
 	* ) echo invalid response;
 		exit 1;;
 
+echo doing stuff...
+
+neofetch
