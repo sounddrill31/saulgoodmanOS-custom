@@ -18,5 +18,6 @@ case $yn in
 	* ) echo invalid response;
 		exit 1;;
 esac
+done
 
 neofetch
