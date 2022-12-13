@@ -21,13 +21,16 @@ case $yn in
 esac
 
 done
-
+#Start
 echo doing stuff...
 neofetch
 sudo apt purge snaps
 sudo apt-get install -y imagemagick
 #sudo pip install youtube-dl
 #sudo apt-get install -y vlc
+
+#Wallpaper
+echo Doing Wallpapers...
 mkdir Saulpapers
 cd Saulpapers
 #wget -O saulpaperback.png https://i.kym-cdn.com/photos/images/newsfeed/001/893/464/3e7.jpg
@@ -46,6 +49,16 @@ pcmanfm --set-wallpaper="/usr/share/lxde/wallpapers/saulpaperfront.png"
 
 #youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best' -o saul.mp4 --no-playlist https://www.youtube.com/watch?v=LyEqj8mC7iQ
 #cvlc --video-wallpaper --no-audio "saul.mp4"
+
+#Splash Screen
+
+echo Doing Splash Screen...
+
+#wget -O splash.png https://link.to/newsplash.png
+#Replace old location with new location
+#sudo cp /newloc/splash.png /newloc/splash.png.bak
+#sudo cp oldloc/splash.png newloc/splash.png
+
 cd ~
 
 
