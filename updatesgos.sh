@@ -38,7 +38,7 @@ cd Saulpapers
 wget -O saulpaperfront.png https://github.com/sounddrill31/saulgoodmanOS-custom/blob/main/Saulpapers/saulpaperfront.png?raw=true
 sudo cp -v ~/Saulpapers/saulpaperfront.png /usr/share/lxde/wallpapers/
 pcmanfm --set-wallpaper="/usr/share/lxde/wallpapers/saulpaperfront.png"
-
+#
 #display -window root saulpaperfront.png
 
 #pcmanfm --set-wallpaper yourfile.jpg
