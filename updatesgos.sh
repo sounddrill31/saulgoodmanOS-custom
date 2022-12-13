@@ -39,7 +39,7 @@ cd Saulpapers
 #youtube-dl -f bestvideo+bestaudio/best --no-playlist https://www.youtube.com/watch?v=LyEqj8mC7iQ
 youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best' -o saul.mp4 --no-playlist https://www.youtube.com/watch?v=LyEqj8mC7iQ
 #cvlc --video-wallpaper --no-audio "3D Saul Goodman, Extended to Full Song, 1080p Full HD, 60fps-LyEqj8mC7iQ.f299.mp4"
-cvlc --video-wallpaper --no-audio "saul.mp4"
+cvlc --video-wallpaper --no-audio "saul.f299.mp4"
 cd ~
 
 
