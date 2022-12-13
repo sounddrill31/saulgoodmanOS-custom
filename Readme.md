@@ -6,4 +6,4 @@ Roadmap:
 1. Welcome to raspberry pi splash screen customization(not done)
 2. ~~Wallpaper~~ Saulpaper(done)
 3. Notification playing theme intro(not done)
-4. Cubic pre-built images(WIP)
+4. Cubic pre-built images(WIP, need hosting)
