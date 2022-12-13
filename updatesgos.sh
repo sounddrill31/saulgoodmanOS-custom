@@ -73,3 +73,4 @@ cd ~
 
 
 rm updatesgos.sh
+echo Reboot Recommended...
