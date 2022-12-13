@@ -63,7 +63,7 @@ pcmanfm --set-wallpaper="/usr/share/lxde/wallpapers/saulpaperfront.png"
 
 #echo Doing Menu Button...
 
-#wget -O splash.png	 https://link.to/start-here.png
+#wget -O splash.png https://raw.githubusercontent.com/sounddrill31/saulgoodmanOS-custom/main/Saulpapers/start-here.png
 #Replace old location with new location
 #sudo mv /usr/share/icons/PiXflat/32x32/places/start-here.png /usr/share/icons/PiXflat/32x32/places/start-here.png.bak
 #sudo cp start-here.png /usr/share/icons/PiXflat/32x32/places/
