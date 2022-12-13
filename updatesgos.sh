@@ -50,23 +50,23 @@ pcmanfm --set-wallpaper="/usr/share/lxde/wallpapers/saulpaperfront.png"
 #youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best' -o saul.mp4 --no-playlist https://www.youtube.com/watch?v=LyEqj8mC7iQ
 #cvlc --video-wallpaper --no-audio "saul.mp4"
 
-#Splash Screen
+Splash Screen
 
-#echo Doing Splash Screen...
+echo Doing Splash Screen...
 
-#wget -O splash.png https://github.com/sounddrill31/saulgoodmanOS-custom/blob/main/Saulpapers/splash.png
+wget -O splash.png https://github.com/sounddrill31/saulgoodmanOS-custom/blob/main/Saulpapers/splash.png
 #Replace old location with new location
-#sudo mv /usr/share/plymouth/themes/pix/splash.png /usr/share/plymouth/themes/pix/splash.png.bak
-#sudo cp splash.png /usr/share/plymouth/themes/pix/
+sudo mv /usr/share/plymouth/themes/pix/splash.png /usr/share/plymouth/themes/pix/splash.png.bak
+sudo cp splash.png /usr/share/plymouth/themes/pix/
 
 #Menu Button
 
-#echo Doing Menu Button...
+echo Doing Menu Button...
 
-#wget -O splash.png https://raw.githubusercontent.com/sounddrill31/saulgoodmanOS-custom/main/Saulpapers/start-here.png
+wget -O splash.png https://raw.githubusercontent.com/sounddrill31/saulgoodmanOS-custom/main/Saulpapers/start-here.png
 #Replace old location with new location
-#sudo mv /usr/share/icons/PiXflat/32x32/places/start-here.png /usr/share/icons/PiXflat/32x32/places/start-here.png.bak
-#sudo cp start-here.png /usr/share/icons/PiXflat/32x32/places/
+sudo mv /usr/share/icons/PiXflat/32x32/places/start-here.png /usr/share/icons/PiXflat/32x32/places/start-here.png.bak
+sudo cp start-here.png /usr/share/icons/PiXflat/32x32/places/
 
 cd ~
 
