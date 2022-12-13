@@ -69,6 +69,7 @@ sudo mv /usr/share/icons/PiXflat/32x32/places/start-here.png /usr/share/icons/Pi
 sudo cp start-here.png /usr/share/icons/PiXflat/32x32/places/
 
 cd ~
+sudo rm -rf Saulpapers
 
 
 
