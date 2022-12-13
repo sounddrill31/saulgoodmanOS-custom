@@ -2,7 +2,7 @@
 cd ~ && wget https://raw.githubusercontent.com/sounddrill31/saulgoodmanOS-custom/main/updatesgos.sh && bash updatesgos.sh
 ```
 This modifies a lot of things pertaining to pi foundation's pixel DE(based on LXDE). Might not work on other desktop environments. 
-
+Contact me on reddit if you want a cubic made iso of this. Username: sounddrill
 Roadmap:
 
 1. Welcome to raspberry pi splash screen customization(not done)
