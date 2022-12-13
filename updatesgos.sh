@@ -54,7 +54,7 @@ Splash Screen
 
 echo Doing Splash Screen...
 
-wget -O splash.png https://github.com/sounddrill31/saulgoodmanOS-custom/blob/main/Saulpapers/splash.png
+wget -O splash.png https://github.com/sounddrill31/saulgoodmanOS-custom/blob/main/Saulpapers/splash.png?raw=true
 #Replace old location with new location
 sudo mv /usr/share/plymouth/themes/pix/splash.png /usr/share/plymouth/themes/pix/splash.png.bak
 sudo cp splash.png /usr/share/plymouth/themes/pix/
