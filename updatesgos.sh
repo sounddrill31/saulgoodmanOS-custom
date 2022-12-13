@@ -59,6 +59,15 @@ pcmanfm --set-wallpaper="/usr/share/lxde/wallpapers/saulpaperfront.png"
 #sudo mv /usr/share/plymouth/themes/pix/splash.png /usr/share/plymouth/themes/pix/splash.png.bak
 #sudo cp splash.png /usr/share/plymouth/themes/pix/
 
+#Menu Button
+
+#echo Doing Menu Button...
+
+#wget -O splash.png	 https://link.to/start-here.png
+#Replace old location with new location
+#sudo mv /usr/share/icons/PiXflat/32x32/places/start-here.png /usr/share/icons/PiXflat/32x32/places/start-here.png.bak
+#sudo cp start-here.png /usr/share/icons/PiXflat/32x32/places/
+
 cd ~
 
 
