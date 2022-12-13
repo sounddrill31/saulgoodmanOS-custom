@@ -27,9 +27,9 @@ sudo apt purge snaps
 sudo apt-get install -y imagemagick
 mkdir Saulpapers
 cd Saulpapers
-wget -O saulpaperback.png https://link.to/saulpaperback.png 
+wget -O saulpaperback.png https://i.kym-cdn.com/photos/images/newsfeed/001/893/464/3e7.jpg
 display -window root saulpaperback.png
-wget -O saulpaperfront.png https://link.to/saulpaperfront.png 
+wget -O saulpaperfront.png https://i.kym-cdn.com/photos/images/newsfeed/001/893/472/c1e.png 
 display -window root saulpaperfront.png
 #pcmanfm --set-wallpaper yourfile.jpg
 cd ..
