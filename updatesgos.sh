@@ -63,7 +63,7 @@ sudo cp splash.png /usr/share/plymouth/themes/pix/
 
 echo Doing Menu Button...
 
-wget -O splash.png https://github.com/sounddrill31/saulgoodmanOS-custom/blob/main/Saulpapers/start-here.png?raw=true
+wget -O start-here.png https://github.com/sounddrill31/saulgoodmanOS-custom/blob/main/Saulpapers/start-here.png?raw=true
 #Replace old location with new location
 sudo mv /usr/share/icons/PiXflat/32x32/places/start-here.png /usr/share/icons/PiXflat/32x32/places/start-here.png.bak
 sudo cp start-here.png /usr/share/icons/PiXflat/32x32/places/
