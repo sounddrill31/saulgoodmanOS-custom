@@ -15,4 +15,4 @@ Roadmap(done/partial/ not done):
 4. Cubic pre-built images(partial, need hosting)
 5. Plymouth/something else with animated boot screen(not done, non-goal)
 6. Replace the raspberry pi logo in menu icon(done)
-7. Fix raspberry pi logo from lock screen
+7. Fix raspberry pi logo from lock screen(not done, non-goal)
