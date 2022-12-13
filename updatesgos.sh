@@ -25,7 +25,7 @@ done
 echo doing stuff...
 neofetch
 sudo apt purge snaps
-sudo apt-get install -y imagemagick
+#sudo apt-get install -y imagemagick
 #sudo pip install youtube-dl
 #sudo apt-get install -y vlc
 
