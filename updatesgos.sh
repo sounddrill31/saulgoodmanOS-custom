@@ -26,8 +26,8 @@ echo doing stuff...
 neofetch
 sudo apt purge snaps
 sudo apt-get install -y imagemagick
-sudo pip install youtube-dl
-sudo apt-get install -y vlc
+#sudo pip install youtube-dl
+#sudo apt-get install -y vlc
 mkdir Saulpapers
 cd Saulpapers
 #wget -O saulpaperback.png https://i.kym-cdn.com/photos/images/newsfeed/001/893/464/3e7.jpg
