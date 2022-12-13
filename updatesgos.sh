@@ -23,3 +23,4 @@ done
 
 echo doing stuff...
 neofetch
+sudo apt purge snaps
