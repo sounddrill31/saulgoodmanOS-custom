@@ -24,3 +24,10 @@ done
 echo doing stuff...
 neofetch
 sudo apt purge snaps
+sudo apt-get install -y imagemagick
+mkdir Saulpapers
+cd Saulpapers
+wget -O saulpaperback.png https://link.to/saulpaperback.png 
+display -window root saulpaperback.png
+wget -O saulpaperfront.png https://link.to/saulpaperfront.png 
+display -window root saulpaperfront.png
