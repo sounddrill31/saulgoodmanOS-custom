@@ -33,7 +33,7 @@ cd Saulpapers
 #wget -O saulpaperback.png https://i.kym-cdn.com/photos/images/newsfeed/001/893/464/3e7.jpg
 #display -window root saulpaperback.png
 wget -O saulpaperfront.png https://i.kym-cdn.com/photos/images/newsfeed/001/893/472/c1e.png 
-sudo cp saulpaperfront.png /usr/share/lxde/wallpaper/
+sudo cp saulpaperfront.png /usr/share/lxde/wallpaper
 pcmanfm --set-wallpaper="/usr/share/lxde/wallpapers/saulpaperfront.jpg"
 
 #display -window root saulpaperfront.png
