@@ -37,7 +37,7 @@ cd Saulpapers
 #pcmanfm --set-wallpaper yourfile.jpg
 
 cvlc --video-wallpaper --no-audio saulgoodman3d.mp4
-cd ..
+cd ~
 
 
 
