@@ -37,7 +37,7 @@ cd Saulpapers
 #pcmanfm --set-wallpaper yourfile.jpg
 
 youtube-dl -f bestvideo+bestaudio/best --no-playlist https://www.youtube.com/watch?v=LyEqj8mC7iQ
-cvlc --video-wallpaper --no-audio saulgoodman3d.mp4
+cvlc --video-wallpaper --no-audio "3D Saul Goodman, Extended to Full Song, 1080p Full HD, 60fps-LyEqj8mC7iQ.f299.mp4"
 cd ~
 
 
