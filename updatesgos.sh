@@ -31,4 +31,9 @@ wget -O saulpaperback.png https://link.to/saulpaperback.png
 display -window root saulpaperback.png
 wget -O saulpaperfront.png https://link.to/saulpaperfront.png 
 display -window root saulpaperfront.png
-pcmanfm --set-wallpaper yourfile.jpg
+#pcmanfm --set-wallpaper yourfile.jpg
+cd ..
+
+
+
+rm updatesgos.sh
