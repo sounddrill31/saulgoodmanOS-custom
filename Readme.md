@@ -7,3 +7,4 @@ Roadmap:
 2. ~~Wallpaper~~ Saulpaper(done)
 3. Notification playing theme intro(not done)
 4. Cubic pre-built images(WIP, need hosting)
+5. Plymouth/something else with animated boot screen(not done, non-goal)
