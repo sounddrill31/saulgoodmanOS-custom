@@ -30,16 +30,18 @@ sudo pip install youtube-dl
 sudo apt-get install -y vlc
 mkdir Saulpapers
 cd Saulpapers
-#wget -O saulpaperback.png https://i.kym-cdn.com/photos/images/newsfeed/001/893/464/3e7.jpg
-#display -window root saulpaperback.png
+wget -O saulpaperback.png https://i.kym-cdn.com/photos/images/newsfeed/001/893/464/3e7.jpg
+display -window root saulpaperback.png
 #wget -O saulpaperfront.png https://i.kym-cdn.com/photos/images/newsfeed/001/893/472/c1e.png 
 #display -window root saulpaperfront.png
 #pcmanfm --set-wallpaper yourfile.jpg
 
 #youtube-dl -f bestvideo+bestaudio/best --no-playlist https://www.youtube.com/watch?v=LyEqj8mC7iQ
-youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best' -o saul.mp4 --no-playlist https://www.youtube.com/watch?v=LyEqj8mC7iQ
 #cvlc --video-wallpaper --no-audio "3D Saul Goodman, Extended to Full Song, 1080p Full HD, 60fps-LyEqj8mC7iQ.f299.mp4"
-cvlc --video-wallpaper --no-audio "saul.mp4"
+
+
+#youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best' -o saul.mp4 --no-playlist https://www.youtube.com/watch?v=LyEqj8mC7iQ
+#cvlc --video-wallpaper --no-audio "saul.mp4"
 cd ~
 
 
