@@ -52,7 +52,7 @@ pcmanfm --set-wallpaper="/usr/share/lxde/wallpapers/saulpaperfront.png"
 
 #Splash Screen
 
-echo Doing Splash Screen...
+#echo Doing Splash Screen...
 
 #wget -O splash.png https://link.to/newsplash.png
 #Replace old location with new location
