@@ -56,8 +56,8 @@ echo Doing Splash Screen...
 
 #wget -O splash.png https://link.to/newsplash.png
 #Replace old location with new location
-#sudo cp /newloc/splash.png /newloc/splash.png.bak
-#sudo cp oldloc/splash.png newloc/splash.png
+#sudo mv /usr/share/plymouth/themes/pix/splash.png /usr/share/plymouth/themes/pix/splash.png.bak
+#sudo cp splash.png /usr/share/plymouth/themes/pix/
 
 cd ~
 
