@@ -3,7 +3,6 @@
 sudo apt update
 sudo apt install -y neofetch
 neofetch
-sudo pip install youtube-dl
 
 
 echo "Testing Over, Do you want to continue modifying your Raspbian/Raspberry Pi OS x86(Arm not officially supported, yet you can try.) into Saul Goodman OS? You can run this in cubic(WIP) or on Bare Metal."
@@ -27,6 +26,8 @@ echo doing stuff...
 neofetch
 sudo apt purge snaps
 sudo apt-get install -y imagemagick
+sudo pip install youtube-dl
+sudo apt-get install -y VLC
 mkdir Saulpapers
 cd Saulpapers
 #wget -O saulpaperback.png https://i.kym-cdn.com/photos/images/newsfeed/001/893/464/3e7.jpg
