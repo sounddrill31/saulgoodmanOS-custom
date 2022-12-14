@@ -16,3 +16,8 @@ Roadmap(done/partial/ not done):
 5. Plymouth/something else with animated boot screen(not done, non-goal)
 6. Replace the raspberry pi logo in menu icon(done)
 7. Fix raspberry pi logo from lock screen(not done, non-goal)
+
+Known issues:
+1. A lot of raspberry pi branding left over(non goal)
+2. Splash screen is only working sometimes
+3. Let me know.
