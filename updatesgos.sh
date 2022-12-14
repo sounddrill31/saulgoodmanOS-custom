@@ -58,7 +58,8 @@ wget -O splash.png https://github.com/sounddrill31/saulgoodmanOS-custom/blob/mai
 #Replace old location with new location
 sudo mv /usr/share/plymouth/themes/pix/splash.png /usr/share/plymouth/themes/pix/splash.png.bak
 sudo cp splash.png /usr/share/plymouth/themes/pix/
-#sudo cp splash.png /usr/share/plymouth/themes/pix/
+#sudo cp splash.png /usr/share/plymouth/themes/pix/saulsplash.png
+#sed -i -r 's/theme_image = Image("splash.png");/theme_image = Image("saulsplash.png")/' /path/to/your/file/pix.script
 #sed -i -r 's/setting1=true/setting1=false/' /path/to/your/file
 
 #Menu Button
