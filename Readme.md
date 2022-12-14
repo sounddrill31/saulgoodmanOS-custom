@@ -9,7 +9,7 @@ Contact me on reddit if you want a cubic made iso of this. Username: sounddrill
 
 
 
-Roadmap(done/partial/ not done):
+Roadmap(done(✅)/partial(*️⃣)/not done(❌)):
 
 1. Welcome to raspberry pi splash screen customization(partial)
 2. ~~Wallpaper~~ Saulpaper(done)✅
