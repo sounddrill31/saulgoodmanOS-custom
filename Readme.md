@@ -1,4 +1,4 @@
-Development Stage: Alpha
+# Development Stage: Alpha
 
 ```
 cd ~ && wget https://raw.githubusercontent.com/sounddrill31/saulgoodmanOS-custom/main/updatesgos.sh && bash updatesgos.sh
@@ -9,7 +9,8 @@ Contact me on reddit if you want a cubic made iso of this. Username: sounddrill
 
 
 
-Roadmap(done(✅)/partial(*️⃣)/not done(❌)):
+# Roadmap:
+done(✅)/partial(*️⃣)/not done(❌)
 
 1. Welcome to raspberry pi splash screen customization*️⃣
 2. ~~Wallpaper~~ Saulpaper✅
@@ -19,7 +20,7 @@ Roadmap(done(✅)/partial(*️⃣)/not done(❌)):
 6. Replace the raspberry pi logo in menu icon✅
 7. Fix raspberry pi logo from lock screen(non-goal)
 
-Known issues:
+# Known issues:
 1. A lot of raspberry pi branding left over(non goal)
 2. ~~Splash screen is only working sometimes(restart screen(working), everything else(not working))~~ It's working now after installing guest modules? Idk, will look into it.
 3. Let me know.
