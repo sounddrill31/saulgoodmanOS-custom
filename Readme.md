@@ -1,4 +1,4 @@
-# Development Stage: Alpha
+# Development Stage: Need a will? Call McGill! (Alpha)
 
 ```
 cd ~ && wget https://raw.githubusercontent.com/sounddrill31/saulgoodmanOS-custom/main/updatesgos.sh && bash updatesgos.sh
