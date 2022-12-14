@@ -61,7 +61,7 @@ sudo mv /usr/share/plymouth/themes/pix/splash.png /usr/share/plymouth/themes/pix
 sudo cp splash.png /usr/share/plymouth/themes/pix/saulsplash.png
 #sudo sed -i -r 's/theme_image = Image("splash.png");/theme_image = Image("saulsplash.png")/' /usr/share/plymouth/themes/pix/pix.script
 #sed -i 's/theme_image = Image("splash.png");/theme_image = Image("saulsplash.png");/g' /usr/share/plymouth/themes/pix/pix.script
-sudo sed -i -r 's/splash.png/saulsplash.png/' /usr/share/plymouth/themes/pix/pix.script
+sudo sed -i -r 's/^splash.png/saulsplash.png/' /usr/share/plymouth/themes/pix/pix.script
 
 #Menu Button
 
