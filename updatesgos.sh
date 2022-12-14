@@ -56,7 +56,7 @@ echo Doing neofetch...
 sudo sed -i.bak "6s/ /distro="SaulGoodmanOS"/" ~/.config/neofetch/config.conf
 wget -O ~/.config/neofetch/saulfetch.txt https://raw.githubusercontent.com/sounddrill31/saulgoodmanOS-custom/main/saulfetch.txt
 #alias neofetch = neofetch --ascii ~/.config/neofetch/saulfetch.txt
-echo "alias neofetch = neofetch --ascii ~/.config/neofetch/saulfetch.txt" >> ~/.bashrc
+echo "alias neofetch='neofetch --ascii ~/.config/neofetch/saulfetch.txt'" >> ~/.bashrc
 
 
 
