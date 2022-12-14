@@ -27,7 +27,7 @@ done(✅)/partial(*️⃣)/not done(❌)
 4. Let me know.
 
 
-# Users' thoughts: 
+# Users' thoughts/Testimonies: 
 
 ### "better use Saul(GoodmannOS)" - u/OttoLindenbrock(non-user)
 
