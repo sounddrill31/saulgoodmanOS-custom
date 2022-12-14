@@ -28,6 +28,6 @@ done(✅)/partial(*️⃣)/not done(❌)
 
 # Users' thoughts: 
 
-"better use Saul(GoodmannOS)" - u/OttoLindenbrock(non-user)
+### "better use Saul(GoodmannOS)" - u/OttoLindenbrock(non-user)
 
-"I'm able to game on this thing!" - Me, I used it in a VM.
+### "I'm able to game on this thing!" - Me, I used it in a VM.
