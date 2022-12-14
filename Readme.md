@@ -26,6 +26,8 @@ done(✅)/partial(*️⃣)/not done(❌)
 3. Let me know.
 
 
-Users' thoughts: 
+# Users' thoughts: 
+
 "better use Saul(GoodmannOS)" - u/OttoLindenbrock(non-user)
+
 "I'm able to game on this thing!" - Me, I used it in a VM.
