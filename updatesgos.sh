@@ -50,6 +50,7 @@ pcmanfm --set-wallpaper="/usr/share/lxde/wallpapers/saulpaperfront.png"
 #youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best' -o saul.mp4 --no-playlist https://www.youtube.com/watch?v=LyEqj8mC7iQ
 #cvlc --video-wallpaper --no-audio "saul.mp4"
 
+echo Doing neofetch...
 #Neofetch
 #sed -i.bak "${lineNumber}s/state0/XXXX/" file
 sudo sed -i.bak "6s/ /distro="SaulGoodmanOS"/" ~/.config/neofetch/config.conf
