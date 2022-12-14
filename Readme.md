@@ -19,5 +19,5 @@ Roadmap(done/partial/ not done):
 
 Known issues:
 1. A lot of raspberry pi branding left over(non goal)
-2. Splash screen is only working sometimes(restart screen(working), everything else(not working))
+2. ~~Splash screen is only working sometimes(restart screen(working), everything else(not working))~~ It's working now after installing guest modules? Idk, will look into it.
 3. Let me know.
