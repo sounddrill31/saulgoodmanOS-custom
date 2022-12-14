@@ -58,6 +58,8 @@ wget -O splash.png https://github.com/sounddrill31/saulgoodmanOS-custom/blob/mai
 #Replace old location with new location
 sudo mv /usr/share/plymouth/themes/pix/splash.png /usr/share/plymouth/themes/pix/splash.png.bak
 sudo cp splash.png /usr/share/plymouth/themes/pix/
+#sudo cp splash.png /usr/share/plymouth/themes/pix/
+#sed -i -r 's/setting1=true/setting1=false/' /path/to/your/file
 
 #Menu Button
 
@@ -67,6 +69,7 @@ wget -O start-here.png https://github.com/sounddrill31/saulgoodmanOS-custom/blob
 #Replace old location with new location
 sudo mv /usr/share/icons/PiXflat/32x32/places/start-here.png /usr/share/icons/PiXflat/32x32/places/start-here.png.bak
 sudo cp start-here.png /usr/share/icons/PiXflat/32x32/places/
+
 
 cd ~
 sudo rm -rf Saulpapers
