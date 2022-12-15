@@ -34,6 +34,7 @@ SG-OS would not be possible without the following open source software/people:
 3. A lot of forums, way too many for my own sanity.
 4. pcmanfm's CLI tools, mostly carried my wallpaper part, might help in notifications part too.
 5. The raspberry pi forums for helpfully explaining things with code snippets and entertaining other users'(mine too) noobish questions and explaining well.
+6. Thanks a lot to Vince Gilligan and team for the amazing show.
 
 # Users' thoughts/Testimonies: 
 
