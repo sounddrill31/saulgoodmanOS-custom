@@ -49,6 +49,7 @@ SG-OS would not be possible without the following open source software/people:
 
 ### "I'm able to game on this thing!" - Me, I used it in a VM.
 
+### "Better install Saul(GoodmanOS)" - u/AvinashReddy3108(non-user)
 
 
 # Dev Trolling:
