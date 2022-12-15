@@ -6,7 +6,7 @@ cd ~ && wget https://raw.githubusercontent.com/sounddrill31/saulgoodmanOS-custom
 This modifies a lot of things pertaining to pi foundation's pixel DE(based on LXDE). Might not work on other desktop environments. 
 Contact me on reddit if you want a cubic made iso of this. Username: sounddrill
 
-
+Something might break with updates, keep that in mind. Will be fixed eventually. 
 
 
 # Roadmap:
