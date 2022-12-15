@@ -26,7 +26,7 @@ done(✅)/partial(*️⃣)/not done(❌)
 3. Gets stuck in ModemManager.service screen, just wait it out.
 4. Let me know.
 
-# Software credits
+# Credits
 
 SG-OS would not be possible without the following open source software/people:
 1. Me, I wrote the bash script lol.
