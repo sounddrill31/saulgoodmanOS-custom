@@ -26,6 +26,14 @@ done(✅)/partial(*️⃣)/not done(❌)
 3. Gets stuck in ModemManager.service screen, just wait it out.
 4. Let me know.
 
+# Software credits
+
+SG-OS would not be possible without the following open source software/people:
+1. Me, I wrote the bash script lol.
+2. Raspbian OS x86/ARM, based on debian 11 at the time of testing.
+3. A lot of forums, way too many for my own sanity.
+4. pcmanfm's CLI tools, mostly carried my wallpaper part, might help in notifications part too.
+5. The raspberry pi forums for helpfully explaining things with code snippets and entertaining other users'(mine too) noobish questions and explaining well.
 
 # Users' thoughts/Testimonies: 
 
