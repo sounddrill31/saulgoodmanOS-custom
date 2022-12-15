@@ -1,8 +1,5 @@
 # Development Stage: Need a will? Call McGill! (Alpha)
 
-```
-cd ~ && wget https://raw.githubusercontent.com/sounddrill31/saulgoodmanOS-custom/main/updatesgos.sh && bash updatesgos.sh
-```
 This modifies a lot of things pertaining to pi foundation's pixel DE(based on LXDE). Might not work on other desktop environments. 
 Contact me on reddit if you want a cubic made iso of this. Username: sounddrill
 
@@ -25,6 +22,16 @@ done(✅)/partial(*️⃣)/not done(❌)
 2. ~~Splash screen is only working sometimes(restart screen(working), everything else(not working))~~Works after installing guest additions, till you uupdate atleast. 
 3. Gets stuck in ModemManager.service screen, just wait it out.
 4. Let me know.
+
+# Instructions:
+1. Download raspberry pi OS x86 or arm. no dedicated iso for sg-OS since I do not have hosting :(
+2. Install it onto a VM/raspberry pi or wherever you'd like.
+3. run the following command, and it will do everything for you!
+```
+cd ~ && wget https://raw.githubusercontent.com/sounddrill31/saulgoodmanOS-custom/main/updatesgos.sh && bash updatesgos.sh
+```
+4. Restart using ```sudo reboot```
+5. If it doesn't do the customisations, restart graphically once more, and open an issue tab if it still doesn't work.
 
 # Credits
 
