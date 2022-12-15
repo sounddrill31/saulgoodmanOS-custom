@@ -14,7 +14,7 @@ done(✅)/partial(*️⃣)/not done(❌)
 
 1. Welcome to raspberry pi splash screen customization*️⃣
 2. ~~Wallpaper~~ Saulpaper✅
-3. Notification playing theme intro❌
+3. Notification playing theme intro❌(priority, thx chatGPT)
 4. Cubic pre-built images(need hosting)*️⃣
 5. Plymouth/something else with animated boot screen(non-goal)❌
 6. Replace the raspberry pi logo in menu icon✅
