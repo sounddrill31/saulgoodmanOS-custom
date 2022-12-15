@@ -9,7 +9,7 @@ echo "Testing Over, Do you want to continue modifying your Raspbian/Raspberry Pi
 echo "Disclaimer, This will remove snaps and snap packages, since I hate snaps."
 #echo "Hi. I'm Saul Goodman. Did you know that you have rights? The Constitution says you do. And so do I. I believe that until proven guilty, every man, woman, and child in this country is innocent. And that's why I fight for you, Albuquerque! Better call Saul. Saul Goodman, attorney."
 
-#nano /path/to/gpllicense
+nano https://raw.githubusercontent.com/sounddrill31/saulgoodmanOS-custom/main/LICENSE
 
 while true; do
 
