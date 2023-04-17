@@ -21,7 +21,7 @@ done(✅)/partial(*️⃣)/not done(❌)
 1. A lot of raspberry pi branding left over(non goal)
 2. ~~Splash screen is only working sometimes(restart screen(working), everything else(not working))~~ Works after commit [2dfa2383bd2a00b6681fc94e64defea0f1b442bb](https://github.com/sounddrill31/saulgoodmanOS-custom/commit/2dfa2383bd2a00b6681fc94e64defea0f1b442bb)
 3. Gets stuck in ModemManager.service screen, just wait it out.
-4. Dark Menu logo and splash screen. Will fix later, you can replace these with your own pics too
+4. ~~Dark Menu logo and splash screen. Will fix later, you can replace these with your own pics too~~ Fixed!
 5. Let me know.
 
 # Instructions:
