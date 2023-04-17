@@ -80,6 +80,8 @@ sudo cp splash.png /usr/share/plymouth/themes/pix/saulsplash.png
 #sed -i 's/theme_image = Image("splash.png");/theme_image = Image("saulsplash.png");/g' /usr/share/plymouth/themes/pix/pix.script
 sudo sed -i -r 's/"splash.png"/"saulsplash.png"/' /usr/share/plymouth/themes/pix/pix.script
 
+sudo update-initramfs -u
+
 #Menu Button
 
 echo Doing Menu Button...
