@@ -19,7 +19,7 @@ done(✅)/partial(*️⃣)/not done(❌)
 
 # Known issues:
 1. A lot of raspberry pi branding left over(non goal)
-2. ~~Splash screen is only working sometimes(restart screen(working), everything else(not working))~~ Works after installing guest additions, till you update atleast. 
+2. ~~Splash screen is only working sometimes(restart screen(working), everything else(not working))~~ Works after commit [2dfa2383bd2a00b6681fc94e64defea0f1b442bb](https://github.com/sounddrill31/saulgoodmanOS-custom/commit/2dfa2383bd2a00b6681fc94e64defea0f1b442bb)
 3. Gets stuck in ModemManager.service screen, just wait it out.
 4. Let me know.
 
