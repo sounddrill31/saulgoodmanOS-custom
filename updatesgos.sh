@@ -58,7 +58,7 @@ echo Doing neofetch...
 #sed -i.bak "${lineNumber}s/state0/XXXX/" file
 sudo sed -i "6s/ / /" ~/.config/neofetch/config.conf
 
-sudo sed -i.bak "6s/ /distro="SaulGoodmanOS"/" ~/.config/neofetch/config.conf
+sudo sed -i.bak "6s/ /distro="SaulGoodmanOS"/' ~/.config/neofetch/config.conf
 #wget -O ~/.config/neofetch/saulfetch.txt https://raw.githubusercontent.com/sounddrill31/saulgoodmanOS-custom/main/saulfetch.txt
 wget -O ~/saulfetch.txt https://raw.githubusercontent.com/sounddrill31/saulgoodmanOS-custom/main/saulfetch.txt
 #alias neofetch = neofetch --ascii ~/.config/neofetch/saulfetch.txt
